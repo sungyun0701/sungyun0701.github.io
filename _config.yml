@@ -1,7 +1,7 @@
 # Site
 title:              SungYun
 bio:                'Back-end developer'
-description:        "This website has wrriten about me"
+description:        "Sung Yun Hwang Website"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.jpg'
@@ -70,7 +70,7 @@ gems:
   - jekyll-gist
 
 jekyll-mentions:
-    base_url: https://github.com
+    base_url: https://sungyun0701.github.io/
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
