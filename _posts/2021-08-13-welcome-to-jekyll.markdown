@@ -1,8 +1,17 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
-date:   2021-08-12 21:48:41 +0900
-categories: jekyll update
+
+title: ItemBank
+subtitle: Java, Spring Boot(Spring Data JPA)
+layout: default
+modal-id: 1
+img: dreams.png
+thumbnail: dreams.png
+alt: image-alt
+project-date: April 2021
+Maker: Sungyun Hwang
+category: Java Web Project
+description: 이 프로젝트는 첫 홈 화면을 반응형 웹페이지로 만들었으며, 문제풀기와 점수보기, 간단한 게임으로 구성된 웹페이지입니다. Sping Data JPA를 기반으로 구현하였습니다.
+
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
