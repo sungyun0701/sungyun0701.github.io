@@ -2,13 +2,14 @@
 title: 약국 찾기
 subtitle: Python // Django
 layout: default
-modal-id: 1
+modal-id: 2
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: March 2021
 Maker: Sungyun Hwang
-category: Python Web project
+category: Django Web project
+project : djangoPharmacy
 description: 이 프로젝트는 약국데이터를 csv파일로 받아서 MongoDB에 저장 후 관련 데이터를 Django기반의 프레임워크로 만든 웹페이지에 구글맵을 이용해 표시했습니다.
 
 ---

@@ -1,0 +1,14 @@
+---
+title: RC카 제어 및 화면 출력
+subtitle: Python, Java // Raspberry Pi3, Android-Studio
+layout: default
+modal-id: 4
+img: golden.png
+thumbnail: golden-thumbnail.png
+alt: image-alt
+project-date: May 2021
+Maker: Sungyun Hwang, Minju Jeong
+category: Raspberry Pi3, Android App project
+description: 이 프로젝트는 RC카를 라즈베리파이를 이용해 통신을 받고 안드로이드 앱을 만들어서 무선으로 데이터를 주고 받아 RC카 제어 및 화면 출력한 프로젝트입니다.
+
+---
