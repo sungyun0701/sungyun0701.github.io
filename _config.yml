@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-url: "https://sungyun0701.github.io/"
-=======
 url: "https://sungyun0701.github.io"
->>>>>>> df23af4e50896b5962fcbc3960e50486e1ce4482
-baseurl: ""
+baseurl: "https://sungyun0701.github.io"
 
 # Site settings
 title: SungYun Hwang
