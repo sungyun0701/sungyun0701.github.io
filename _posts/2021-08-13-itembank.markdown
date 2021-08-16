@@ -1,6 +1,5 @@
 ---
-
-title: ItemBank
+title: 문제 은행
 subtitle: Java, Spring Boot(Spring Data JPA)
 layout: default
 modal-id: 1
