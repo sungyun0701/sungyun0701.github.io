@@ -865,3 +865,45 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
+
+/**
+ * clock css
+ */
+header .seconds {
+    width: 30px;
+    height: 30px;
+    top: 560px;
+    right: 230px;
+    position: absolute;
+    text-align: center;
+    line-height: 30px;
+    font-size: 18pt;
+    border-radius: 50%;
+    background-color: rgba(81, 81, 81, 0.2);
+}
+
+header .minutes {
+    width: 90px;
+    height: 90px;
+    top: 530px;
+    right: 200px;
+    position: absolute;
+    text-align: center;
+    line-height: 90px;
+    font-size: 35pt;
+    border-radius: 50%;
+    background-color: rgba(126, 126, 126, 0.7);
+}
+
+header .hours {
+    width: 250px;
+    height: 250px;
+    top: 430px;
+    right: 100px;
+    position: absolute;
+    text-align: center;
+    line-height: 250px;
+    font-size: 115pt;
+    border-radius: 50%;
+    background-color: rgba(181, 181, 181, 0.4);
+}
