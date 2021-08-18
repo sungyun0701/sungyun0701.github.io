@@ -8,11 +8,8 @@
 
     {% include header.html %}
     {% include services.html %}
+	{% include about.html %}
     {% include portfolio_grid.html %}
-    {% include about.html %}
-    {% include team.html %}
-    {% include clients.html %}
-    {% include contact.html %}
     {% include footer.html %}
     {% include modals.html %}
     {% include js.html %}
@@ -26,7 +23,7 @@
     seconds = ("0" + seconds).slice(-2);
     var secondSel = document.querySelector(".seconds");
 
-    secondSel.style.transform = "rotate(" + sdegree + "deg) translate(160px) rotate(-" + sdegree + "deg)";
+    secondSel.style.transform = "rotate(" + sdegree + "deg) translate(130px) rotate(-" + sdegree + "deg)";
     secondSel.innerHTML = seconds;
 
     var minutes = new Date().getMinutes();
@@ -34,7 +31,7 @@
     var minutesSel = document.querySelector(".minutes");
     minutes = ("0" + minutes).slice(-2);
 
-    minutesSel.style.transform = "rotate(" + mdegree + "deg) translate(181px) rotate(-" + mdegree + "deg)";
+    minutesSel.style.transform = "rotate(" + mdegree + "deg) translate(121px) rotate(-" + mdegree + "deg)";
     minutesSel.innerHTML =  minutes;
 
     var hours = new Date().getHours();

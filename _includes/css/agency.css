@@ -872,8 +872,8 @@ body {
 header .seconds {
     width: 30px;
     height: 30px;
-    top: 560px;
-    right: 230px;
+    top: 540px;
+    right: 211px;
     position: absolute;
     text-align: center;
     line-height: 30px;
@@ -886,7 +886,7 @@ header .minutes {
     width: 90px;
     height: 90px;
     top: 530px;
-    right: 200px;
+    right: 160px;
     position: absolute;
     text-align: center;
     line-height: 90px;
