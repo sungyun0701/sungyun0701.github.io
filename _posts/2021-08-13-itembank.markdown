@@ -3,8 +3,8 @@ title: 문제 은행
 subtitle: Java, Spring Boot(Spring Data JPA)
 layout: default
 modal-id: 1
-img: dreams.png
-thumbnail: dreams.png
+img: itembank.jpg
+thumbnail: itembank_thumbnail.jpg
 alt: image-alt
 project-date: April 2021
 Maker: Sungyun Hwang

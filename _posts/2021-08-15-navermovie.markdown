@@ -3,8 +3,8 @@ title: 상영작 정보 및 순위 보기
 subtitle: Phython // Flask
 layout: default
 modal-id: 3
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: film.jpg
+thumbnail: film_thumbnail.jpg
 alt: image-alt
 project-date: April 2021
 Maker: Sungyun Hwang

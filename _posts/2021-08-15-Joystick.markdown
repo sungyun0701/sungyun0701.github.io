@@ -3,8 +3,8 @@ title: RC카 제어 및 화면 출력
 subtitle: Python,Java//Raspberry Pi,Android
 layout: default
 modal-id: 4
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: rc.jpg
+thumbnail: rc_thumbnail.jpg
 alt: image-alt
 project-date: May 2021
 Maker: Sungyun Hwang, Minju Jeong

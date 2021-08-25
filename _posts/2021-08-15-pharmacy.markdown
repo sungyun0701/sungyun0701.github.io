@@ -3,8 +3,8 @@ title: 약국 찾기
 subtitle: Python // Django
 layout: default
 modal-id: 2
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: medicine.jpg
+thumbnail: medicine_thumbnail.jpg
 alt: image-alt
 project-date: March 2021
 Maker: Sungyun Hwang
